@@ -2,7 +2,7 @@ package com.itheima;
 //aaa
 /**
  * Hello world!
- *你好啊
+ *你
  */
 public class App 
 {
